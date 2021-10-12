@@ -16,15 +16,15 @@
 * AS A small business owner, I want to be able to write and save notes, so that I can organize my thoughts and keep track of tasks I need to complete
 
 ## Installation:
-* Use 'npm i' to install the required files.
+* Use `npm i` to install the required files.
 
 ## Usage:
-* Use 'npm start' to start the program hosting. Once on the Note Taker, the can press the 'Get Started' button to continue to the application. The user will then be presented with a blank note to get started. The user can save the note with the save button presented in the top right hand corner.
+* Use `npm start` to start the program hosting. Once on the Note Taker, the can press the 'Get Started' button to continue to the application. The user will then be presented with a blank note to get started. The user can save the note with the save button presented in the top right hand corner.
 
-* View walk through video here: (https://watch.screencastify.com/v/dNgbMvIrYc6eWIhpCzwp)
+* View walk through video here: (https://watch.screencastify.com/v/doTTe0Fq0IfYsJZQSdJ5)
 
 ## License:
-* This project is licensed under MIT 
+* This project is licensed under `MIT`
 
 ## Github:
 * https://github.com/jihoonswdev/note-taker
